@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-dosa
-salami
-pizza
-=======
-holiday
-sangam
-radha
->>>>>>> movies
